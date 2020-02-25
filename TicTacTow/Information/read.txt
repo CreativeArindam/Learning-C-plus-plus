@@ -1,0 +1,7 @@
+This folder is just for some additional things (Just for understanding)
+
+"../Codes" folder includes the necessary codes.
+
+"TicTacTow.exe" is the executable program.
+
+Some screenshots are also present in the folder. 
