@@ -1,0 +1,10 @@
+======================================================================
+			B a s i c  S n a k e G a m e
+======================================================================
+UP: I
+DOWN: K
+LEFT: J
+RIGHT: L
+
+Codes are in "../Codes" folder.
+exe file is in the same folder.
