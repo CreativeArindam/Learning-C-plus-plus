@@ -1,2 +1,2 @@
 # Learning-C-plus-plus
-Collection for my C++ code for practice
+Collection of my C++ code for practice
